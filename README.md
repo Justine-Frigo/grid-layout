@@ -2,4 +2,4 @@
 
 ## Project
 
-This project is about how to create a website in HTML/CSS with grid. You can see the preview here :  https://sheyleen.github.io/grid-layout/
+This project is about how to create a website in HTML/CSS with grid. You can see the preview here : 
